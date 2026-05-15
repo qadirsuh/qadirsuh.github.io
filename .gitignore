@@ -1,0 +1,5 @@
+# Private files - not for public repo
+_private/
+
+# macOS
+.DS_Store
