@@ -1,0 +1,892 @@
+--- QADIR-HUSSAIN-Android-Dev.pdf ---
+Android Apps (Native), NodeJS & Chatbots Developer 
+Qadir Hussain Suhriyani 
+qadir.suh@gmail.com 
++92 333 7133461 
+Personal Info: DOB: 10th - June -1987 
+NIC: 43503-0353101-3 
+ 
+Gender: Male 
+Father Name: Wali Muhammad 
+Address: Flat No: B/4-204, Johnson Paradise 
+apartment, Moulana Yousuf Ludhianwi Shaheed Rd, 
+Gulzar E Hijri Scheme 33, Karachi. 
+E-Mail: qadir.suh@gmail.com 
+Cell: +92 333 7133461 
+ 
+ 
+Objectives: 
+Experienced tech professional vast in Android native (Java & Kotlin), NodeJS, Chatbots and 
+DialogFlow. Looking to obtain the role of Senior Android Developer to utilize 9 years of 
+experience in handling popular Android, NodeJS and chatbot projects. 
+ 
+Experience: 
+Organization: 
+Designation: 
+Tenure: 
+ 
+Description: 
+Genetech Solutions Inc, Karachi Pakistan 
+Senior Software Engineer 
+October 2012 to Date (9 years) 
+ 
+I joined the Genetech solutions in October 2012 and is my first career 
+building company. I started my career as a junior Android application 
+developer but now I have great experience in Android and NodeJS and 
+chatbot development too. 
+ 
+Currently I am working as Senior Software Engineer here. 
+ 
+During the tenure mentioned my job responsibility is to design, Analyze, 
+develop and maintain the new and/or existing Android and NodeJS and 
+chatbot applications. 
+ 
+My current job responsibility also includes the communication with the 
+different clients. 
+ 
+Organization: 
+Designation: 
+Tenure: 
+ 
+Description: 
+Hidaya Institute of Science & Technology (HIST), Jamshoro 
+Android Application Development with Java Essentials Training 
+1st June 2012 to 30th Sept 2012 (4 months) 
+ 
+Core java Programming, Strong OOP concepts, including Arrays, String 
+Handling, Filing, Socket Programming Collections and Generics, Multi-
+threading. 
+ 
+Crucial practice on Android Application Development using Android SDK 
+and Eclipse SDK including Consuming web services, JSON and XML 
+
+Parsing, Background threads using AsyncTask and 
+multithreading in apps, UI Styling, Gradient Effect, Customizing 
+Views, Listviews and Gridviews, Sqlite database 
+ 
+Internships: 
+Organization: 
+Designation: 
+Tenure: 
+ 
+Description: 
+Pakistan State Oil (PSO) House Karachi 
+Internee (IT Department) 
+June 2011 – July 2011 (2 months)  
+ 
+Worked on DOMINO Designer, SAP, Visual Studio, CSS 
+ 
+Education: 
+Bachelors: 
+Aggregate %: 
+Institute: 
+ 
+Session: 
+B.E. (Computer Systems) 
+78.52% 
+Quaid-e-Awam University of Engineering, Science & Technology, 
+Nawabshah, Sindh, Pakistan 
+2008-2011 
+ 
+ 
+ 
+Intermediate: 
+Grade/Division: 
+Institute: 
+Session: 
+HSSC (Pre-Engineering) 
+2nd Div 
+Wapda Degree College Guddu, Kashmore, Sindh, Pakistan 
+2005-2007 
+ 
+ 
+ 
+Matriculation: 
+Grade/Division: 
+Institute: 
+Session: 
+SSC (Sciences) 
+1st Div 
+Wapda Public High School Guddu, Kashmore, Sindh, Pakistan 
+2003-2005 
+ 
+Skills 
+Android 
+• 6 years of core Android native development experience  
+• Proficient with Java and Android SDK  
+• Hands on practice in Kotlin 
+• MVVM and Jetpack components 
+• Published 4 Android Apps on Play Store 
+• Experience with offline storage, and multi-threading  
+• RESTful APIs to connect Android apps with back-end services.   
+• Strong Debugging skills  
+• Strong OOPs concepts/design pattern knowledge  
+• Experience in create complex and pixel perfect layouts. 
+• Experience with third-party libraries and APIs  
+• 
+Google APIs (Maps, Directions APIs, Geocoding)., Social APIs, 
+Volley, Retrofit, Picasso, OpenCV, Firebase. 
+• Cloud message APIs and push notifications.  
+• Database Sqlite and Room. 
+ 
+
+ 
+ 
+NodeJS 
+• Knowledge of Node.js and framework Express 
+• JavaScript front-end/back-end development experience 
+• Experience with Node.js utility libraries 
+• Experience in implementing npm modules 
+• Experience building REST based APIs 
+• Setup and configuration of Heroku environment 
+ 
+ 
+AI based 
+Chatbots 
+(DialogFlow) 
+• Experience in creating multilingual chatbots 
+• Using Google’s DialogFlow as NLP tool 
+• Using NodeJS as backend programing language 
+• Experience in creating Telegram chatbots 
+• Experience in creating multilingual and highly customizable agents 
+in DialogFlow 
+ 
+Git 
+• Experience in GIT version control system 
+• Creating multiple branches 
+• Experience in resolving code conflicts 
+• Experience in creating pull requests, performing code reviews and 
+code merging 
+ 
+Android Apps 
+on Play Store: 
+Project: 
+URL: 
+Alforat News 
+https://play.google.com/store/apps/details?id=com.rgn.alforatnews 
+ 
+Project: 
+URL: 
+eMaktab Parent App 
+https://play.google.com/store/apps/details?id=com.emaktab.app 
+ 
+Project: 
+URL: 
+Islamic Books Library 
+https://play.google.com/store/apps/details?id=my.islamic.books.lib.app 
+ 
+Project: 
+URL: 
+Houston Living Android App (Replica of iOS App) 
+https://play.google.com/store/apps/details?id=com.har.houstonliving 
+ 
+Chatbot 
+Project: 
+ 
+Details: 
+Telegram qBot 
+ 
+qBot is an AI multiligual, NLP chatbot developed in NodeJS (as backend 
+programing language), It has following features and can anwer to 
+following user quries very effecintly 
+ 
+• Tell me a joke 
+• Q set reminder for goto gym daily at 5 pm 
+• Q create task (Todoist integration) 
+• Q do you know distance from Earth to moon (Wolfram integration) 
+• Q show all movies list (yts APIs integration) 
+• Q play movie the Matrix in living room 
+
+• Q download new movie 
+• Q create incident 
+• Answers general small talks messages like greattings, about bot, 
+emotions etc 
+ 
+ 
+Certifications: Certification: 
+Duration: 
+Session: 
+CCNA (Module-I) 
+6 months 
+July 2011 to Dec-2011 
+ 
+ 
+ 
+Certification: 
+Duration: 
+Session: 
+MATLAB (Digital Image Processing)  
+1 Month 
+17 March 2011 to 17 April 2011 
+ 
+ 
+ 
+Certification: 
+Duration: 
+Session: 
+Auto CAD (Including 3D) 
+1 Month 
+September 2010 to October 2010 
+ 
+Languages: 
+English, Urdu, Sindhi 
+ 
+Declaration: 
+I do hereby declare that all the above particulars are true to the best of my knowledge & belief. 
+ 
+
+
+--- QADIR-HUSSAIN-26-04-2021.pdf ---
+Android & iOS native apps and NodeJS Developer 
+Qadir Hussain Suhriyani 
+Flat No: B/4-204, Johnson Paradise apartment, Moulana Yousuf Ludhianwi Shaheed Rd, 
+Gulzar E Hijri Scheme 33, Karachi City, Sindh 75330, Pakistan 
+qadir.suh@gmail.com 
++92 333 7133461 
+Personal Info: DOB: 10th - June -1987 
+NIC: 43503-0353101-3 
+ 
+Gender: Male 
+Father Name: Wali Muhammad 
+Address: Flat No: B/4-204, Johnson Paradise 
+apartment, Moulana Yousuf Ludhianwi Shaheed Rd, 
+Gulzar E Hijri Scheme 33, Karachi City, Sindh 75330, 
+Pakistan 
+ 
+E-Mail: qadir.suh@gmail.com 
+Cell: +92 333 7133461 
+ 
+ 
+Objectives: 
+Experienced tech professional vast in Android native (Java & Kotlin), iOS native (Swift) 
+NodeJS, Chatbots and DialogFlow. Looking to obtain the role of Senior Software Developer to 
+utilize 8 years of experience in handling popular Android, iOS, NodeJS and JavaScript in 
+developing and implementing applications based on clients’ need. 
+ 
+Experience: 
+Organization: 
+Designation: 
+Tenure: 
+ 
+Description: 
+Genetech Solutions Inc, Karachi Pakistan 
+Senior Developer / SME 
+October 2012 to Date (8 years) 
+ 
+I joined the Genetech solutions in October 2012 and is my first career 
+building company. Basically, I joined Genetech Solutions as a junior 
+Android application developer but now I have good experience in iOS 
+(Swift) and NodeJS development too. 
+ 
+Currently I am working as Senior developer / SME here. 
+ 
+During the tenure mentioned my job responsibility is to design, Analyze, 
+develop and maintain the new and/or existing Android, iOS and NodeJS 
+applications  
+ 
+My current job responsibility also includes the communication with the 
+different clients. 
+ 
+
+Organization: 
+Designation: 
+Tenure: 
+ 
+Description: 
+Hidaya Institute of Science & Technology (HIST), Jamshoro 
+Android Application Development with Java Essentials Training 
+1st June 2012 to 30th Sept 2012 (4 months) 
+ 
+Core java Programming, Strong OOP concepts, including Arrays, String 
+Handling, Filing, Socket Programming Collections and Generics, Multi-
+threading. 
+ 
+Crucial practice on Android Application Development using Android SDK 
+and Eclipse SDK including Consuming web services, JSON and XML 
+Parsing, Background threads using AsyncTask and 
+multithreading in apps, UI Styling, Gradient Effect, Customizing 
+Views, Listviews and Gridviews, Sqlite database 
+ 
+Internships: 
+Organization: 
+Designation: 
+Tenure: 
+ 
+Description: 
+Pakistan State Oil (PSO) House Karachi 
+Internee (IT Department) 
+June 2011 – July 2011 (2 months)  
+ 
+Worked on DOMINO Designer, SAP, Visual Studio, CSS 
+ 
+Education: 
+Bachelors: 
+Aggregate %: 
+Institute: 
+ 
+Session: 
+B.E. (Computer Systems) 
+78.52% 
+Quaid-e-Awam University of Engineering, Science & Technology, 
+Nawabshah, Sindh, Pakistan 
+2008-2011 
+ 
+ 
+ 
+Intermediate: 
+Grade/Division: 
+Institute: 
+Session: 
+HSSC (Pre-Engineering) 
+2nd Div 
+Wapda Degree College Guddu, Kashmore, Sindh, Pakistan 
+2005-2007 
+ 
+ 
+ 
+Matriculation: 
+Grade/Division: 
+Institute: 
+Session: 
+SSC (Sciences) 
+1st Div 
+Wapda Public High School Guddu, Kashmore, Sindh, Pakistan 
+2003-2005 
+ 
+Skills 
+Android 
+• 5+ years of core Android native development experience  
+• Proficient with Java and Android SDK  
+• Hands on practice in Kotlin 
+• Published 4 Android Apps on Play Store 
+• Experience with offline storage, and multi-threading  
+• RESTful APIs to connect Android apps with back-end services.   
+• Strong Debugging skills  
+• Strong OOPs concepts/design pattern knowledge  
+• Experience in create complex and pixel perfect layouts. 
+
+• Experience with third-party libraries and APIs  
+• 
+Google APIs (Maps, Directions APIs, Geocoding)., Social APIs, 
+Volley, Retrofit, Picasso, OpenCV, Firebase. 
+• Cloud message APIs and push notifications.  
+• Database Sqlite and Room. 
+ 
+ 
+iOS 
+• 2+ years of core iOS native development experience  
+• Hands on practice in Swift  
+• Experience with offline storage, and multi-threading 
+• RESTful APIs to connect iOS apps with back-end services 
+• Strong Debugging skills  
+• Experience with third-party libraries and APIs  
+• 
+Google APIs (Maps, Directions APIs, Geocoding), Alamofire, 
+Kingfisher, Firebase, Starscream, SwiftyJSON 
+• Cloud message APIs and push notifications.  
+• Database Sqlite and Core Data 
+ 
+ 
+NodeJS 
+• Knowledge of Node.js and framework Express 
+• JavaScript front-end/back-end development experience 
+• Experience with Node.js utility libraries 
+• Experience in implementing npm modules 
+• Experience building REST based APIs 
+• Setup and configuration of Heroku environment 
+ 
+ 
+AI based 
+Chatbots 
+(DialogFlow) 
+• Experience in creating multilingual chatbots 
+• Using Google’s DialogFlow as NLP tool 
+• Using NodeJS as backend programing language 
+• Experience in creating Telegram chatbots 
+• Experience in creating multilingual and highly customizable agents 
+in DialogFlow 
+ 
+Git 
+• Experience in GIT version control system 
+• Creating multiple branches 
+• Experience in resolving code conflicts 
+• Experience in creating pull requests, performing code reviews and 
+code merging 
+ 
+Android Apps 
+on Play Store: 
+Project: 
+URL: 
+Alforat News 
+https://play.google.com/store/apps/details?id=com.rgn.alforatnews 
+ 
+Project: 
+URL: 
+eMaktab Parent App 
+https://play.google.com/store/apps/details?id=com.emaktab.app 
+ 
+
+Project: 
+URL: 
+Islamic Books Library 
+https://play.google.com/store/apps/details?id=my.islamic.books.lib.app 
+ 
+Project: 
+URL: 
+Houston Living Android App (Replica of iOS App) 
+https://play.google.com/store/apps/details?id=com.har.houstonliving 
+ 
+iOS 
+Applications 
+Project: 
+URL: 
+ 
+ 
+Details: 
+ 
+ 
+ 
+ 
+ 
+ 
+Tools: 
+jamesApp (Home Automation) 
+http://www.genetechsolutions.com/portfolio/detail/home-
+automation.html 
+ 
+Basically App is for an world famous Restourant in the Switzerland. 
+App includes following scope 
+Controlling Appartment’s appliances like TV, Lighting, Temprature 
+(Aircondition, Heater), music player, App is enriched with Uber API to 
+request driver at your door steps. Also user can order food, room cleaning 
+service etc. 
+ 
+Socket Programming to connect with Loxone Miniserver, Consuming 
+JSON-web-services, Multithreaded-Programming, Custom layout and 
+views, Firebase 
+Chatbot 
+Project: 
+ 
+Details: 
+Telegram qBot 
+ 
+qBot is an AI multiligual, NLP chatbot developed in NodeJS (as backend 
+programing language), It has following features and can anwer to 
+following user quries very effecintly 
+ 
+• Tell me a joke 
+• Q set reminder for goto gym daily at 5 pm 
+• Q create task (Todoist integration) 
+• Q do you know distance from Earth to moon (Wolfram integration) 
+• Q show all movies list (yts APIs integration) 
+• Q play movie the Matrix in living room 
+• Q download new movie 
+• Q create incident 
+• Answers general small talks messages like greattings, about bot, 
+emotions etc 
+ 
+ 
+Certifications: Certification: 
+Duration: 
+Session: 
+CCNA (Module-I) 
+6 months 
+July 2011 to Dec-2011 
+ 
+ 
+
+ 
+Certification: 
+Duration: 
+Session: 
+MATLAB (Digital Image Processing)  
+1 Month 
+17 March 2011 to 17 April 2011 
+ 
+ 
+ 
+Certification: 
+Duration: 
+Session: 
+Auto CAD (Including 3D) 
+1 Month 
+September 2010 to October 2010 
+ 
+Languages: 
+English, Urdu, Sindhi 
+ 
+Declaration: 
+I do hereby declare that all the above particulars are true to the best of my knowledge & belief. 
+ 
+
+
+--- Qadir Hussain - Resume (30 March 2026).pdf ---
+Qadir Hussain 
+Date of birth: 10 Jun 1987
+ Nationality: Pakistani
+ Gender: Male 
+ Phone number: (+92) 3337133461 (Mobile) 
+ 
+Email address: qadir.suh@gmail.com 
+ Website: https://www.linkedin.com/in/qadir-hussain-03670b26/
+ 
+Experienced Senior Software Developer with M.Sc. degree in Data Engineering and extensive professional history in
+software development. Skilled in Android Native Apps (Java/Kotlin), iOS (Swift), Backend (Node.js), AI ChatBot
+Development and Workflow Automation, Also have skills in Data Analytics with Power BI, with a proven track record of
+delivering high-quality software solutions. Seeking to leverage expertise in Mobile Apps development, Data Engineering
+projects and/or full-stack development in a challenging role.
+SENIOR SOFTWARE DEVELOPER – GENETECH SOLUTIONS, INC – 1 Nov 2018 – Current – KARACHI, PAKISTAN 
+• Expertly provided subject matter expertise in Android and Node.js development while patiently mentoring junior
+developers.
+• Strategically contributed to the architectural design and development of highly scalable mobile applications.
+• Designed, developed, and maintained complex Android and Node.js applications, seamlessly integrating AI-
+based chatbots with DialogFlow, OpenAI, and Google’s Gemini APIs.
+• Proactively collaborated with clients to consistently exceed project expectations.
+SENIOR ANDROID APPLICATION DEVELOPER – GENETECH SOLUTIONS INC – 1 Nov 2014 – 30 Oct 2018 – KARACHI,
+PAKISTAN 
+• Designed, developed, and maintained complex Android applications.
+• Successfully published various Android applications on the Google Play Store.
+• Implemented offline storage solutions and efficiently optimized performance for multi-threaded applications.
+ANDROID APPLICATION DEVELOPER – GENETECH SOLUTIONS – 1 Oct 2012 – 30 Oct 2014 – KARACHI, PAKISTAN 
+Began my career as a junior developer, enthusiastically contributing to Android application development and rapidly
+building expertise in Java, the Android SDK, and seamlessly integrating third-party libraries and APIs.
+Javascript(Nodejs, ExpressJs)
+ Android Studio with Java
+ Backend Development (Kotlin, Node.JS, Python)
+ Object-
+Oriented Programming
+ Chatbot (Google DialogFlow)
+ MySQL, SQLite, Oracle, Firebase(NoSQL)
+ IOS (Objective-C,
+Swift)
+ NoSQL (firebase realtime database MongoDB)
+ Google Gemini
+ OpenAI ChatGPT
+ n8n
+ Data
+Analytics
+ Github
+ Kotlin
+ Swift
+ Claude
+ Antigravtiy
+ Github Co-pilot 
+Le Bijou - JamesApp 
+The James app acts as a remote control for the apartment. Set the lighting (Using Loxone mini-server), the music and
+the mood at the touch of a button. Talk to James or get in touch with one of our team. Order laundry, transport, in-
+room dining, or simply check the weather exactly where you plan to go, when you plan to go.
+Link https://lebijou.com/services 
+Mr. Q (ChatBot) 
+Mr. Q is a multilingual conversational Telegram chatbot developed using Node.js and integrated with DialogFlow NLP
+for intent detection. It offers a wide range of robust features, including:
+• Task Management: Sending reports, setting reminders, and creating tasks via Todoist integration.
+ABOUT ME 
+WORK EXPERIENCE
+SKILLS 
+PROJECTS 
+
+• Apartment Assistance: Handling queries about apartment details, sauna usage, addresses, WiFi credentials,
+and more.
+• Cleaning Operations: Commands for tracking cleaning, refreshing, and quality assurance processes.
+• Small Talk: Engages in casual conversations, shares jokes, and responds to user inquiries.
+Mr. Q streamlines tasks, enhances apartment management, and provides user-friendly interaction for various needs.
+2 JUL 2016 – 12 AUG 2018 
+Islamic Library 
+• Android app Islamic Library is a free online library that provides access to thousands of Islamic books on the go.
+• Scanned and converted very old islamic books that were not available digitally on the internet
+Link https://download.cnet.com/islamic-library/3000-18495_4-78291966.html 
+2 JUL 2018 – 6 DEC 2019 
+Houston Livin 
+An Android app that puts everything about Houston in the palm of your hand.
+Link https://apkpure.net/houston-living/com.har.houstonliving 
+1 APR 2022 – 30 JUN 2024 Karachi, Pakistan 
+MASTER'S OF SCIENCE (M.SC.) IN DATA ENGINEERING AND INFORMATION MANAGEMENT NED
+University of Engineering and Technology 
+Website https://www.neduet.edu.pk/ 
+1 JAN 2008 – 30 DEC 2012 Nawabshah, Pakistan 
+BACHELOR'S OF ENGINEERING (B.E) IN COMPUTER SYSTEMS ENGINEERING Quaid-e-Awam University of
+Engineering, Sciences & Technology 
+Website https://quest.edu.pk/ 
+Microsoft, 5 Mar 2025 
+Data Analysis and Visualization with Power BI 
+an online course authorised by Microsoft and offered through Coursera.
+Mode of learning: Online 
+Link https://coursera.org/share/348e4eb6e38a437d6ed46c39a921f63e 
+Vanderbilt University, 20 May 2025 
+AI Agents and Agentic AI Architecture in Python 
+an online course authorised by Vanderbilt University and offered through Coursera.
+Mode of learning: Online 
+Link https://coursera.org/share/08bf70cf61a3e45e19a1b3b340639feb 
+Exploring blogs and articles on emerging technologies and Reading Books 
+• Regularly reading tech blogs and articles to stay current with industry trends.
+• Reading books to gain new perspectives and broaden my knowledge.
+Mother tongue(s):  SINDHI |  URDU 
+EDUCATION AND TRAINING
+CERTIFICATIONS 
+HOBBIES AND INTERESTS 
+LANGUAGE SKILLS 
+
+1 OCT 2022 
+Dedication and Professionalism – Genetech Solutions, Inc 
+Awarded for dedication and professionalism upon completing 10 years of service at Genetech Solutions Inc.
+HONOURS AND AWARDS 
+
+
+--- Qadir_Hussain_-_Resume.pdf ---
+Qadir
+Hussain
+Senior Software Developer
+ANDROID | JAVA | KOTLIN |
+NODEJS | CHATBOTS
+Qadir Hussain Suhriyani
+County Garden Flat No: 304, Block 4, Gulzar-e-Hijri Block 4/2 Metrovil
+Colony, Karachi Sindh
+03337133461
+qadir.suh@gmail.com
+Experienced tech professional skilled in Android native apps (Java &
+Kotlin), NodeJS, Chatbots, and DialogFlow. Seeking the position of
+Senior Android Developer to leverage 10 years of experience in handling
+popular Android, NodeJS, and chatbot projects.
+ㅡ
+Experience
+Senior Software Engineer
+Genetech Solutions Inc, Karachi
+Jan 2020 – Present (3 yrs 2 mos)
+I joined Genetech Solutions in October 2012, marking the beginning of
+my professional career. My initial role at the company was that of a junior
+Android application developer. However, over time, I have gained
+extensive experience in the domains of Android, NodeJS, and chatbot
+development.
+At present, I hold the position of Senior Software Engineer at the
+organization. During my tenure, my primary responsibilities have
+entailed the design, analysis, development, and maintenance of both new
+and existing Android and NodeJS-based applications, as well as chatbots.
+In addition to these core responsibilities, I also communicate regularly
+with our diverse clientele, ensuring that their needs are met and their
+expectations exceeded.
+Senior Software Developer | SME
+Genetech Solutions Inc, Karachi
+Nov 2018 – Dec 2019 (1 yr 2 mos)
+Senior Android Application Developer
+Genetech Solutions Inc, Karachi
+Nov 2014 – Oct 2018 (4 yrs)
+Jr Android Application Developer
+Genetech Solutions Inc, Karachi
+Oct 2012 – Oct 2014 (2 yrs 1 mo)
+ㅡ
+Skills
+Android:
+●
+7 years of core Android native development experience
+●
+Proficient with Java and Android SDK
+●
+Hands on practice in Kotlin
+●
+MVVM and Jetpack components
+●
+Published 4 Android Apps on Play Store
+●
+Experience with offline storage, and multi-threading
+●
+RESTful APIs to connect Android apps with back-end services
+
+●
+Strong Debugging skills
+●
+Strong OOPs concepts and design pattern knowledge
+●
+Experience in creating complex and pixel perfect layouts.
+●
+Experience with third-party libraries and APIs
+○
+Google APIs (Maps, Directions APIs, Geocoding), Social
+Media APIs, Volley, Retrofit, Picasso, OpenCV, Firebase
+●
+Cloud message APIs and push notifications.
+●
+Database Sqlite and Room ORM.
+NodeJS:
+●
+Knowledge of Node.js and framework Express
+●
+JavaScript front-end/back-end development experience
+●
+Experience with Node.js utility libraries
+●
+Experience in implementing npm modules
+●
+Experience building REST based APIs
+●
+Setup and configuration of Heroku environment
+AI based Chatbots (DialogFlow):
+●
+Experience in creating multilingual chatbots
+●
+Using Google’s DialogFlow as NLP tool
+●
+Using NodeJS as backend programing language
+●
+Experience in creating Telegram chatbots
+●
+Experience in creating multilingual and highly customizable
+agents in DialogFlow
+ㅡ
+Education
+MS in Data Engineering and Information Management
+NED University of Engineering and Technology, Karachi
+2022 – On-Going (Weekend Program)
+B.E in Computer Systems Engineering
+Quaid-e-Awam University of Engineering, Sciences and
+Technology Nawabshah
+2008 - 2012
+ㅡ
+Projects
+Android apps on Play Store:
+Islamic Books Library
+https://play.google.com/store/apps/details?id=my.islamic.books.lib.app
+Houston Living Android App
+https://play.google.com/store/apps/details?id=com.har.houstonliving
+Alforat News
+https://play.google.com/store/apps/details?id=com.rgn.alforatnews
+eMaktab Parent App
+https://play.google.com/store/apps/details?id=com.emaktab.app
+
+qBot (Telegram bot):
+qBot is an AI multilingual, NLP chatbot developed in NodeJS (as backend
+programing language), It has following features and can answer to
+following user queries very efficiently
+●
+Q Tell me a joke
+●
+Q set reminder for goto gym daily at 5 pm
+●
+Q create task (Todoist integration)
+●
+Q do you know distance from Earth to moon (Wolfram
+integration)
+●
+Q show all movies list (yts APIs integration)
+●
+Q play movie the Matrix in living room
+●
+Q download new movie
+●
+Q create incident
+●
+Answers general small talks messages like greetings, about bot,
+emotions etc
+JamesApp (iOS App):
+The jamesApp was developed using Swift and functions as a remote
+control for the apartment (Home automation system). It allows for easy
+control of the lighting, music, and mood with just a button press, utilizing
+the Loxone mini-server. Additionally, the app enables users to
+communicate with James or reach out to a member of our team.
+Whether you need to order laundry, transportation, in-room dining, or
+simply check the weather for your planned destination, jamesApp has got
+you covered. Moreover, the app features an Artificial Intelligent bot
+named qJamesBot, enhancing the overall user experience.
+ㅡ
+Awards
+Dedication and immaculate professionalism awarded by Genetech
+solutions Inc, on completing 10 years of service in the company.
+
+
+--- CV - Qadir Hussain - Senior Software Developer.pdf ---
+ABOUT ME
+Results-driven Senior Software Developer with a Master’s in Data Engineering and 10+ years of experience in
+Software development. Skilled in (Java/Kotlin), Node.js, and AI chatbots ETL pipelines, Apache Airflow, Power BI, and
+Cloud computing, with a proven track record of delivering high-quality software solutions. Seeking to leverage my
+expertise in Android, data engineering, and full-stack development in a challenging role.
+ 
+WORK EXPERIENCE
+Senior Software Developer 
+Genetech Solutions, Inc [ 1 Nov 2018 – Current ] 
+City: Karachi |  Country: Pakistan 
+• Provided subject matter expertise in Android and NodeJS development, mentoring junior developers.
+• Contributed to the architectural design and development of scalable mobile applications.
+• Designed, developed, and maintained complex Android and Node.js applications, integrating AI-based
+chatbots with DialogFlow and OpenAI and Google's Gemini APIs
+• Collaborating closely with clients to exceed project expectations.
+Senior Android Application Developer 
+Genetech Solutions Inc [ 1 Nov 2014 – 30 Oct 2018 ] 
+City: Karachi |  Country: Pakistan 
+• Designed, developed, and maintained complex Android applications.
+• Published 4 Android apps on the Google Play Store.
+• Implemented offline storage solutions and optimised performance for multi-threaded applications.
+Android Application Developer 
+Genetech Solutions [ 1 Oct 2012 – 30 Oct 2014 ] 
+City: Karachi |  Country: Pakistan 
+Began my career as a junior developer, actively contributing to Android application development and building
+expertise in Java, the Android SDK, and integrating third-party libraries and APIs.
+EDUCATION AND TRAINING
+Master's of Science (M.sc.) in Data Engineering and Information Management 
+NED University of Engineering and Technology [ 1 Apr 2022 – 30 Jun 2024 ] 
+City: Karachi |  Country: Pakistan |  Website: https://www.neduet.edu.pk/ |  Level in EQF: EQF level 7 
+Bachelor's of Engineering (B.E) in Computer Systems Engineering 
+Quaid-e-Awam University of Engineering, Sciences & Technology [ 1 Jan 2008 – 30 Dec 2012 ] 
+City: Nawabshah |  Country: Pakistan |  Website: https://quest.edu.pk/ |  Level in EQF: EQF level 6 
+Qadir Hussain 
+Nationality: Pakistani  Date of birth: 10 Jun 1987  
+ 
+ 
+Phone number: (+92) 3337133461 
+
+Email address: qadir.suh@gmail.com 
+
+WhatsApp Messenger: +923337133461 
+
+Website: https://www.linkedin.com/in/qadir-hussain-03670b26/ 
+
+Home: Unique Classic Apartment, Karachi (Pakistan) 
+
+
+Other language(s): 
+English 
+LISTENING B2  READING B2  WRITING B2  
+SPOKEN PRODUCTION B1  SPOKEN INTERACTION B1  
+DIGITAL SKILLS 
+Javascript(Nodejs, ExpressJs) /  Android Studio with Java /  Backend Development (Kotlin, Node.JS, Python) /  Web
+Development /  Object-Oriented Programming /  Git /  Chatbot (Google DialogFlow) /  OpenAI GPT2 /  Platform :
+AWS Cloud /  MySQL, SQLite, Oracle, Firebase(NoSQL) /  IOS (Objective-C, Swift) /  NoSQL (firebase realtime
+database MongoDB) 
+PROJECTS 
+Le Bijou - JamesApp 
+The James app an iOS native application acts as a remote control for the apartment. Set the mood at the touch of a
+button. Order laundry, transport, in-room dining or spa treatments, or simply ask for a recommendation. James
+sends tailored suggestions for activities, events, restaurants, and more.
+ 
+Link: https://lebijou.com/services 
+Mr. Q (ChatBot) 
+Mr. Q is a multilingual conversational Telegram chatbot developed using Node.js and integrated with DialogFlow NLP
+for intent detection. It offers a wide range of robust features, including:
+• Task Management: Sending reports, setting reminders, and creating tasks via Todoist integration.
+• Apartment Assistance: Handling queries about apartment details, sauna usage, addresses, WiFi credentials,
+and more.
+• Cleaning Operations: Commands for tracking cleaning, refreshing, and quality assurance processes.
+• Small Talk: Engages in casual conversations, shares jokes, and responds to user inquiries.
+Mr. Q streamlines tasks, enhances apartment management, and provides user-friendly interaction for various needs.
+ 
+[ 6 Dec 2018 – 6 Dec 2019 ] 
+Houston Livin 
+An Android app The Houston Living puts everything about Houston in the palm of your hand.
+ 
+Link: https://apkpure.net/houston-living/com.har.houstonliving 
+[ 2 Jul 2016 – 12 Aug 2018 ] 
+Islamic Library 
+• Android app Islamic Library is a free online library that provides access to thousands of Islamic books on the
+go.
+• Scanned and converted very old islamic books that were not available digitally on the internet
+ 
+Link: https://download.cnet.com/islamic-library/3000-18495_4-78291966.html 
+LANGUAGE SKILLS 
+Mother tongue(s): Sindhi |  Urdu 
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
+
+HOBBIES AND INTERESTS 
+Exploring blogs and articles on emerging technologies and Reading Books 
+• Engaging with blogs and articles on emerging technologies to stay updated on industry trends,
+•  Reading books to gain deeper insights and broaden knowledge across various domains.
+ 
+
+
